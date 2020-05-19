@@ -1,0 +1,13 @@
+.submit-button {
+    font-size: 1.5rem;
+    width: 100%;
+    display: flex;
+    margin: 10px 0;
+
+    font-family: 'Dosis', sans-serif;
+    justify-content: center;
+}
+
+.main-form{
+    align-items: center;
+}

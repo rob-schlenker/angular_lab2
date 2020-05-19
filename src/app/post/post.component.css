@@ -1,0 +1,17 @@
+.post {
+    list-style: none;
+    margin: 15px 0;
+    background-color: white;
+}
+
+.title {
+font-size: 2rem;
+}
+
+.thoughts {
+    border: solid 1px black;
+    background-color: white;
+    padding: 10px 0;
+    margin: 15px 0;
+}
+

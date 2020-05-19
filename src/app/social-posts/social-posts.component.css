@@ -1,0 +1,22 @@
+.my-thoughts {
+    font-size: 2rem;
+    font-family: 'Homemade Apple', cursive;
+    color: skyblue;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+.main-body {
+    margin: 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-form {
+    margin-bottom: 20px;
+}
+
+.post-container {
+    width:100%;
+}
